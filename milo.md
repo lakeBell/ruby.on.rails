@@ -1,3 +1,3 @@
 ## kleine testseite fuer milo
 
-superlink [checkout here](www.google.com)
+superlink [checkout here](http://www.google.com)
